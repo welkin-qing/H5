@@ -1,0 +1,28 @@
+#div1{
+	width:60%;
+	height:600px;
+	border:1px black solid;
+}
+#div2{
+	width:400px;
+	height:200px;
+	background-color: #ccc;
+	margin-top:200px;
+	margin-left:25%;
+}
+.left{ 
+ 	width: 50px;   /*图形的宽度和高度*/
+ 	height: 50px; 
+ 	border-radius: 0 0 50px 0; 
+ 	position: absolute; 
+ 	background-color: #FC0; 
+ } 
+ .right{ 
+ 	width: 50px; 
+ 	height: 50px; 
+ 	border-radius: 50px 0 0 0; 
+ 	position: absolute; 
+ 	background-color: #FC0; 
+    left: 41.15%;  /*控制位置*/
+ 	top:360px; 
+ } 

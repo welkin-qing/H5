@@ -1,0 +1,45 @@
+div,#div1,#div3{
+	margin:0;
+	padding: 20px;
+	border:1px black solid;
+}
+#div1{
+	height:780px;
+	background-color: #ccc;
+}
+#div2{
+	width:380px;
+	height:155px;
+	background-color: white;
+}
+#div3{
+	width:120px;
+	height:720px;
+	background-color: white;
+	position: absolute;
+	right:30px;
+	top:30px;
+
+}
+#div4{
+	width:46%;
+	height:660px;
+	background-color: white;
+	position:absolute;
+	top:30px;
+	right:213px;
+}
+.photo{
+	width:120px;
+	height:150px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+article {
+	float:right;
+	margin-right:10px;
+}
+body{
+	margin:5px;
+    font:bold 22px/1.5em "Micrdsoft YaHei";
+}
